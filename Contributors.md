@@ -226,6 +226,7 @@ John Mehta
 StephDigital
 - [Dhamodhar Reddy](https://github.com/Dhamodhar-DDR)
 - [Amikk Homr](https://github.com/mrazek)
+- [Nikhil Bhave] (https://github.com/nikhilbhave9)
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
 - [Sandesh Chapagain](https://github.com/schapagain)
